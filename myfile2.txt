@@ -1,7 +1,0 @@
-this is the file2 of testing git
-
-test of edit1
-then add
-
-after add, edit 2
-then commit
