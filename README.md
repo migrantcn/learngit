@@ -1,4 +1,7 @@
 This is a learn test of git
+
+now i am going to edit file1
+
 What is Pangolin
 ====================================
 
