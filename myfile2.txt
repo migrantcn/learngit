@@ -1,1 +1,6 @@
 this is the file2 of testing git
+
+test of edit1
+then add
+
+
